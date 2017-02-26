@@ -1,4 +1,5 @@
 
+    new fail
     private void openMetod(File file){
 
         try {
